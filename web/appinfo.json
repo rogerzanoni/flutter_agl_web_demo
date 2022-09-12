@@ -1,0 +1,12 @@
+{
+  "id": "webapps-flutter-web-demo",
+  "title": "HVAC",
+  "description": "HTML5 flutter web demo",
+  "version": "0.0.0",
+  "vendor": "Igalia, S.L.",
+  "type": "web",
+  "main": "index.html",
+  "uiRevision": "2",
+  "icon": "icon.svg"
+}
+
